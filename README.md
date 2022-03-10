@@ -1,4 +1,4 @@
-# pi_search
+# See: 
 
 - [圓周率π藏著所有人的銀行卡密碼和生日？假如我算完了π會怎樣？ | 雅桑了嗎](https://www.youtube.com/watch?v=lXhzUSn5oFQ)
 - [1 Million Digits of Pi](https://www.piday.org/million/)
@@ -8,12 +8,10 @@
 - [圆周率在线查询](http://pai.babihu.com/)
 - [MIT pi 前10亿位 ](https://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt)
 - [徒手画圆](https://vladgotlib.com/circular/)
-- [π里包含了所有可能的数字组合吗？](https://www.guokr.com/article/439682/)
+- ❤️ [π里包含了所有可能的数字组合吗？](https://www.guokr.com/article/439682/)
 - [pi 相关的文献资料](https://mathworld.wolfram.com/Pi.html)
 - [圆周率之歌英文版](http://pai.babihu.com/special/pisongen.html)
-
-# 正规数
-[正规数](https://zh.wikipedia.org/wiki/%E6%AD%A3%E8%A7%84%E6%95%B0)
+- ❤️ [正规数](https://zh.wikipedia.org/wiki/%E6%AD%A3%E8%A7%84%E6%95%B0)
 
 # 1. pi.py
 
