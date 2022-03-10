@@ -11,7 +11,10 @@
 - ❤️ [π里包含了所有可能的数字组合吗？](https://www.guokr.com/article/439682/)
 - [pi 相关的文献资料](https://mathworld.wolfram.com/Pi.html)
 - [圆周率之歌英文版](http://pai.babihu.com/special/pisongen.html)
+- 
 - ❤️ [正规数](https://zh.wikipedia.org/wiki/%E6%AD%A3%E8%A7%84%E6%95%B0)
+- [证明圆周率是无理数很难吗？充满好奇心的数学家只需要一页纸！](https://www.youtube.com/watch?v=eDViOkApcSw)
+- [证明圆周率π是无理数很容易？人类花了2000年！](https://www.youtube.com/watch?v=YtRRcNzzh-E)
 
 # 1. pi.py
 
