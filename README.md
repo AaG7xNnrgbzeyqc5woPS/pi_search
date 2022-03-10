@@ -11,3 +11,7 @@
 - [π里包含了所有可能的数字组合吗？](https://www.guokr.com/article/439682/)
 - [pi 相关的文献资料](https://mathworld.wolfram.com/Pi.html)
 - [圆周率之歌英文版](http://pai.babihu.com/special/pisongen.html)
+
+# 正规数
+[正规数](https://zh.wikipedia.org/wiki/%E6%AD%A3%E8%A7%84%E6%95%B0)
+
