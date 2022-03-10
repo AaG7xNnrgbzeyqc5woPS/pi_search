@@ -17,6 +17,7 @@
 - [证明圆周率π是无理数很容易？人类花了2000年！](https://www.youtube.com/watch?v=YtRRcNzzh-E)
 - 💝 [π中包含所有可能吗？无限猴子定理是什么？正规数与析取数](https://www.youtube.com/watch?v=69kWrnOKCm8)
 - [星体尺寸比较 2](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
+- [Universe Size Comparison 2020](https://www.youtube.com/watch?v=02Kgf9dCgME)
 
 
 # 1. pi.py
