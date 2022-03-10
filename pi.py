@@ -1,4 +1,6 @@
 import re
+# url: https://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt
+
 ff = open("pi-billion.txt","r")
 ff_content = ff.read()
 n = 0
